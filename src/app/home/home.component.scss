@@ -1,0 +1,25 @@
+.homepage{
+    display: flex;
+   
+}
+.home1{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    padding: 10% 0;
+    align-items: center;
+    background-color: rgb(223, 210, 194);
+    border-radius: 10px;
+}
+.home1 h1{
+    font-size: 4rem;
+    font-family: 'Arial', 'sans-serif';
+    margin-bottom: 25px;
+}
+.home2{
+    width: 50%;
+    height: 50%;
+}
+.home2 img{
+    max-width: 100%;
+}

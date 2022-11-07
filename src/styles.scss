@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+/*color scheme:
+ #F2DFEF 
+ #52D9CB
+ #B6F2EC
+ #01261C
+ #41D9AE
+
+ */
+
+ h1, h2, h3, h4, h5, p, li{
+    color: #01261C;
+ }
+ body{
+    margin: 5vh 5vw;
+    background-color:  #B6F2EC;
+ }
+ .header-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+ }
+ .header-bar a{
+    color: #01261C;
+ }
+.navbar-toggler-icon{
+    border-radius: 5px;
+ }
+ .dropdown-item a{
+    color: #01261C;
+ }
+ .icon{
+    width: 125px;
+    border-radius: 10px;
+    margin-right: 10px;
+ }
